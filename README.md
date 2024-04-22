@@ -1,4 +1,4 @@
-ravel Platform!
+Volunteer Platform!
 
 Hi there! 👋 Welcome to WanderHeart! We're excited to have you here!
 
